@@ -1,4 +1,3 @@
-# objectCreatorUtil.py
 import maya.cmds as cmds
 
 def create_object(obj_type: str, name: str = None):
